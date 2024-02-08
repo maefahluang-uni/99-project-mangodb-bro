@@ -8,17 +8,17 @@ and caring for mango trees. The database will also be accessible
 to the general public, who will be able to learn about the
 different varieties of mangoes and their characteristics. 
 ## Members
-6431503009 Chuntawat Thongmee
-6431503028 Thananan Setajit
-6431503071 Amornphong Naitip 
-6431503131 Chanathip Khamchan
+-6431503009 Chuntawat Thongmee
+-6431503028 Thananan Setajit
+-6431503071 Amornphong Naitip 
+-6431503131 Chanathip Khamchan
 
 
 ##Branch
-plant branch Chuntawat Thongmee 6431503009
-news branch Thananan Setajit 6431503028
-mango branch Amorngphong Naitip 6431503071
-contact branch Chanathip khamchan 6431503131
+-plant branch Chuntawat Thongmee 6431503009
+-news branch Thananan Setajit 6431503028
+-mango branch Amorngphong Naitip 6431503071
+-contact branch Chanathip khamchan 6431503131
 
 
 ## Instruction
