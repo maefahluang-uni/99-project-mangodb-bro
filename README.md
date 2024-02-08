@@ -15,10 +15,14 @@ different varieties of mangoes and their characteristics.
 
 
 ##Branch
--plant branch Chuntawat Thongmee 6431503009
--news branch Thananan Setajit 6431503028
--mango branch Amorngphong Naitip 6431503071
--contact branch Chanathip khamchan 6431503131
+
+  -plant branch Chuntawat Thongmee 6431503009
+  
+  -news branch Thananan Setajit 6431503028
+  
+  -mango branch Amorngphong Naitip 6431503071
+  
+  -contact branch Chanathip khamchan 6431503131
 
 
 ## Instruction
