@@ -1,4 +1,4 @@
-# Project -title
+# Project Mango database of Thailand
 A Webapplication of MangoDatabase in Thailand
 
 This system is designed to support farmers and
