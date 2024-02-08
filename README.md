@@ -1,5 +1,12 @@
 # Project -title
-A webapplication of MangoDatabase in thailand 
+A Webapplication of MangoDatabase in Thailand
+
+This system is designed to support farmers and
+consumers as a mango information database. The web
+application can also help identify mango varieties with Machine learning(ML) and help make informed decisions about planting
+and caring for mango trees. The database will also be accessible
+to the general public, who will be able to learn about the
+different varieties of mangoes and their characteristics. 
 ## Members
 6431503009 Chuntawat Thongmee
 6431503028 Thananan Setajit
